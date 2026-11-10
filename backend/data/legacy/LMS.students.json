@@ -1,0 +1,300 @@
+[{
+  "_id": {
+    "$oid": "6aafe8a9a46d6fd0541ddac7"
+  },
+  "student_code": "STD018",
+  "student_name": "Ishaan",
+  "course": "AI",
+  "batch": "A3",
+  "learning_progress": "48%"
+},
+{
+  "_id": {
+    "$oid": "6aafe8a9a46d6fd0541ddaca"
+  },
+  "student_code": "STD021",
+  "student_name": "Nayana",
+  "course": "Data Science",
+  "batch": "B2",
+  "learning_progress": "74%"
+},
+{
+  "_id": {
+    "$oid": "6aafe8a9a46d6fd0541ddacf"
+  },
+  "student_code": "STD026",
+  "student_name": "Harish",
+  "course": "Cybersecurity",
+  "batch": "C3",
+  "learning_progress": "63%"
+},
+{
+  "_id": {
+    "$oid": "6aafe8a9a46d6fd0541ddac5"
+  },
+  "student_code": "STD016",
+  "student_name": "Aarav",
+  "course": "AI",
+  "batch": "A1",
+  "learning_progress": "60%"
+},
+{
+  "_id": {
+    "$oid": "6aafe8a9a46d6fd0541ddad0"
+  },
+  "student_code": "STD027",
+  "student_name": "Malavika",
+  "course": "Cybersecurity",
+  "batch": "C1",
+  "learning_progress": "88%"
+},
+{
+  "_id": {
+    "$oid": "6aafe8a9a46d6fd0541ddac6"
+  },
+  "student_code": "STD017",
+  "student_name": "Diya",
+  "course": "AI",
+  "batch": "A2",
+  "learning_progress": "72%"
+},
+{
+  "_id": {
+    "$oid": "6aafe8a9a46d6fd0541ddab7"
+  },
+  "student_code": "STD002",
+  "student_name": "Rohan",
+  "course": "AI",
+  "batch": "A2",
+  "learning_progress": "40%"
+},
+{
+  "_id": {
+    "$oid": "6aafe8a9a46d6fd0541ddabd"
+  },
+  "student_code": "STD008",
+  "student_name": "Vikram",
+  "course": "Cybersecurity",
+  "batch": "C2",
+  "learning_progress": "45%"
+},
+{
+  "_id": {
+    "$oid": "6aafe8a9a46d6fd0541ddac3"
+  },
+  "student_code": "STD014",
+  "student_name": "Keerthana",
+  "course": "Data Science",
+  "batch": "B2",
+  "learning_progress": "50%"
+},
+{
+  "_id": {
+    "$oid": "6aafe8a9a46d6fd0541ddab8"
+  },
+  "student_code": "STD003",
+  "student_name": "Priya",
+  "course": "AI",
+  "batch": "A3",
+  "learning_progress": "65%"
+},
+{
+  "_id": {
+    "$oid": "6aafe8a9a46d6fd0541ddabe"
+  },
+  "student_code": "STD009",
+  "student_name": "Sneha",
+  "course": "Cybersecurity",
+  "batch": "C3",
+  "learning_progress": "70%"
+},
+{
+  "_id": {
+    "$oid": "6aafe8a9a46d6fd0541ddad2"
+  },
+  "student_code": "STD029",
+  "student_name": "Gopika",
+  "course": "DSA",
+  "batch": "D2",
+  "learning_progress": "71%"
+},
+{
+  "_id": {
+    "$oid": "6aafe8a9a46d6fd0541ddaba"
+  },
+  "student_code": "STD005",
+  "student_name": "Meera",
+  "course": "Data Science",
+  "batch": "B2",
+  "learning_progress": "55%"
+},
+{
+  "_id": {
+    "$oid": "6aafe8a9a46d6fd0541ddacb"
+  },
+  "student_code": "STD022",
+  "student_name": "Vishal",
+  "course": "Data Science",
+  "batch": "B3",
+  "learning_progress": "58%"
+},
+{
+  "_id": {
+    "$oid": "6aafe8a9a46d6fd0541ddac2"
+  },
+  "student_code": "STD013",
+  "student_name": "Nithin",
+  "course": "AI",
+  "batch": "A1",
+  "learning_progress": "85%"
+},
+{
+  "_id": {
+    "$oid": "6aafe8a9a46d6fd0541ddac9"
+  },
+  "student_code": "STD020",
+  "student_name": "Aditya",
+  "course": "Data Science",
+  "batch": "B1",
+  "learning_progress": "67%"
+},
+{
+  "_id": {
+    "$oid": "6aafe8a9a46d6fd0541ddad3"
+  },
+  "student_code": "STD030",
+  "student_name": "Sreeram",
+  "course": "DSA",
+  "batch": "D3",
+  "learning_progress": "84%"
+},
+{
+  "_id": {
+    "$oid": "6aafe8a9a46d6fd0541ddad1"
+  },
+  "student_code": "STD028",
+  "student_name": "Abhinav",
+  "course": "DSA",
+  "batch": "D1",
+  "learning_progress": "55%"
+},
+{
+  "_id": {
+    "$oid": "6aafe8a9a46d6fd0541ddab6"
+  },
+  "student_code": "STD001",
+  "student_name": "Bonnie",
+  "course": "AI",
+  "batch": "A1",
+  "learning_progress": "25%"
+},
+{
+  "_id": {
+    "$oid": "6aafe8a9a46d6fd0541ddabc"
+  },
+  "student_code": "STD007",
+  "student_name": "Anjali",
+  "course": "Cybersecurity",
+  "batch": "C1",
+  "learning_progress": "20%"
+},
+{
+  "_id": {
+    "$oid": "6aafe8a9a46d6fd0541ddacc"
+  },
+  "student_code": "STD023",
+  "student_name": "Lakshmi",
+  "course": "Data Science",
+  "batch": "B1",
+  "learning_progress": "82%"
+},
+{
+  "_id": {
+    "$oid": "6aafe8a9a46d6fd0541ddabf"
+  },
+  "student_code": "STD010",
+  "student_name": "Kiran",
+  "course": "DSA",
+  "batch": "D1",
+  "learning_progress": "15%"
+},
+{
+  "_id": {
+    "$oid": "6aafe8a9a46d6fd0541ddacd"
+  },
+  "student_code": "STD024",
+  "student_name": "Arun",
+  "course": "Cybersecurity",
+  "batch": "C1",
+  "learning_progress": "69%"
+},
+{
+  "_id": {
+    "$oid": "6aafe8a9a46d6fd0541ddab9"
+  },
+  "student_code": "STD004",
+  "student_name": "Arjun",
+  "course": "Data Science",
+  "batch": "B1",
+  "learning_progress": "30%"
+},
+{
+  "_id": {
+    "$oid": "6aafe8a9a46d6fd0541ddabb"
+  },
+  "student_code": "STD006",
+  "student_name": "Rahul",
+  "course": "Data Science",
+  "batch": "B3",
+  "learning_progress": "80%"
+},
+{
+  "_id": {
+    "$oid": "6aafe8a9a46d6fd0541ddac1"
+  },
+  "student_code": "STD012",
+  "student_name": "Divya",
+  "course": "DSA",
+  "batch": "D3",
+  "learning_progress": "60%"
+},
+{
+  "_id": {
+    "$oid": "6aafe8a9a46d6fd0541ddac4"
+  },
+  "student_code": "STD015",
+  "student_name": "Sanjay",
+  "course": "Cybersecurity",
+  "batch": "C3",
+  "learning_progress": "95%"
+},
+{
+  "_id": {
+    "$oid": "6aafe8a9a46d6fd0541ddace"
+  },
+  "student_code": "STD025",
+  "student_name": "Devika",
+  "course": "Cybersecurity",
+  "batch": "C2",
+  "learning_progress": "77%"
+},
+{
+  "_id": {
+    "$oid": "6aafe8a9a46d6fd0541ddac8"
+  },
+  "student_code": "STD019",
+  "student_name": "Kavya",
+  "course": "AI",
+  "batch": "A1",
+  "learning_progress": "78%"
+},
+{
+  "_id": {
+    "$oid": "6aafe8a9a46d6fd0541ddac0"
+  },
+  "student_code": "STD011",
+  "student_name": "Akhil",
+  "course": "DSA",
+  "batch": "D2",
+  "learning_progress": "35%"
+}]

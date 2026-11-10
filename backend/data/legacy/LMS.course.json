@@ -1,0 +1,48 @@
+[{
+  "_id": {
+    "$oid": "6a4656e238b4c95c6f8598af"
+  },
+  "course_code": "C002",
+  "course": "Data Science",
+  "batches": [
+    "B1",
+    "B2",
+    "B3"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a4656e238b4c95c6f8598b0"
+  },
+  "course_code": "C003",
+  "course": "Cybersecurity",
+  "batches": [
+    "C1",
+    "C2",
+    "C3"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a4656e238b4c95c6f8598b1"
+  },
+  "course_code": "C004",
+  "course": "DSA",
+  "batches": [
+    "D1",
+    "D2",
+    "D3"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a4656e238b4c95c6f8598ae"
+  },
+  "course_code": "C001",
+  "course": "AI",
+  "batches": [
+    "A1",
+    "A2",
+    "A3"
+  ]
+}]

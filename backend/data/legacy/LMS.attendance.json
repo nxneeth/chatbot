@@ -1,0 +1,360 @@
+[{
+  "_id": {
+    "$oid": "6aafe8e8a46d6fd0541ddb15"
+  },
+  "student_code": "STD030",
+  "student_name": "Sreeram",
+  "course": "DSA",
+  "batch": "D3",
+  "attendance_percentage": 98,
+  "total_classes": 40,
+  "classes_attended": 39
+},
+{
+  "_id": {
+    "$oid": "6aafe8e8a46d6fd0541ddb03"
+  },
+  "student_code": "STD002",
+  "student_name": "Rohan",
+  "course": "AI",
+  "batch": "A2",
+  "attendance_percentage": 88,
+  "total_classes": 50,
+  "classes_attended": 44
+},
+{
+  "_id": {
+    "$oid": "6aafe8e8a46d6fd0541ddb0c"
+  },
+  "student_code": "STD021",
+  "student_name": "Nayana",
+  "course": "Data Science",
+  "batch": "B2",
+  "attendance_percentage": 92,
+  "total_classes": 48,
+  "classes_attended": 44
+},
+{
+  "_id": {
+    "$oid": "6aafe8e8a46d6fd0541ddafd"
+  },
+  "student_code": "STD014",
+  "student_name": "Keerthana",
+  "course": "Data Science",
+  "batch": "B2",
+  "attendance_percentage": 89,
+  "total_classes": 48,
+  "classes_attended": 43
+},
+{
+  "_id": {
+    "$oid": "6aafe8e8a46d6fd0541ddb0a"
+  },
+  "student_code": "STD019",
+  "student_name": "Kavya",
+  "course": "AI",
+  "batch": "A1",
+  "attendance_percentage": 96,
+  "total_classes": 50,
+  "classes_attended": 48
+},
+{
+  "_id": {
+    "$oid": "6aafe8e8a46d6fd0541ddaff"
+  },
+  "student_code": "STD012",
+  "student_name": "Divya",
+  "course": "DSA",
+  "batch": "D3",
+  "attendance_percentage": 98,
+  "total_classes": 40,
+  "classes_attended": 39
+},
+{
+  "_id": {
+    "$oid": "6aafe8e8a46d6fd0541ddb0d"
+  },
+  "student_code": "STD022",
+  "student_name": "Vishal",
+  "course": "Data Science",
+  "batch": "B3",
+  "attendance_percentage": 81,
+  "total_classes": 48,
+  "classes_attended": 39
+},
+{
+  "_id": {
+    "$oid": "6aafe8e8a46d6fd0541ddb04"
+  },
+  "student_code": "STD005",
+  "student_name": "Meera",
+  "course": "Data Science",
+  "batch": "B2",
+  "attendance_percentage": 90,
+  "total_classes": 48,
+  "classes_attended": 43
+},
+{
+  "_id": {
+    "$oid": "6aafe8e8a46d6fd0541ddb09"
+  },
+  "student_code": "STD018",
+  "student_name": "Ishaan",
+  "course": "AI",
+  "batch": "A3",
+  "attendance_percentage": 79,
+  "total_classes": 50,
+  "classes_attended": 40
+},
+{
+  "_id": {
+    "$oid": "6aafe8e8a46d6fd0541ddb13"
+  },
+  "student_code": "STD028",
+  "student_name": "Abhinav",
+  "course": "DSA",
+  "batch": "D1",
+  "attendance_percentage": 74,
+  "total_classes": 40,
+  "classes_attended": 30
+},
+{
+  "_id": {
+    "$oid": "6aafe8e8a46d6fd0541ddafe"
+  },
+  "student_code": "STD001",
+  "student_name": "Bonnie",
+  "course": "AI",
+  "batch": "A1",
+  "attendance_percentage": 92,
+  "total_classes": 50,
+  "classes_attended": 46
+},
+{
+  "_id": {
+    "$oid": "6aafe8e8a46d6fd0541ddb0f"
+  },
+  "student_code": "STD024",
+  "student_name": "Arun",
+  "course": "Cybersecurity",
+  "batch": "C1",
+  "attendance_percentage": 84,
+  "total_classes": 45,
+  "classes_attended": 38
+},
+{
+  "_id": {
+    "$oid": "6aafe8e8a46d6fd0541ddb05"
+  },
+  "student_code": "STD013",
+  "student_name": "Nithin",
+  "course": "AI",
+  "batch": "A1",
+  "attendance_percentage": 94,
+  "total_classes": 50,
+  "classes_attended": 47
+},
+{
+  "_id": {
+    "$oid": "6aafe8e8a46d6fd0541ddb14"
+  },
+  "student_code": "STD029",
+  "student_name": "Gopika",
+  "course": "DSA",
+  "batch": "D2",
+  "attendance_percentage": 87,
+  "total_classes": 40,
+  "classes_attended": 35
+},
+{
+  "_id": {
+    "$oid": "6aafe8e8a46d6fd0541ddafc"
+  },
+  "student_code": "STD007",
+  "student_name": "Anjali",
+  "course": "Cybersecurity",
+  "batch": "C1",
+  "attendance_percentage": 85,
+  "total_classes": 45,
+  "classes_attended": 38
+},
+{
+  "_id": {
+    "$oid": "6aafe8e8a46d6fd0541ddb02"
+  },
+  "student_code": "STD006",
+  "student_name": "Rahul",
+  "course": "Data Science",
+  "batch": "B3",
+  "attendance_percentage": 76,
+  "total_classes": 48,
+  "classes_attended": 36
+},
+{
+  "_id": {
+    "$oid": "6aafe8e8a46d6fd0541ddb08"
+  },
+  "student_code": "STD017",
+  "student_name": "Diya",
+  "course": "AI",
+  "batch": "A2",
+  "attendance_percentage": 90,
+  "total_classes": 50,
+  "classes_attended": 45
+},
+{
+  "_id": {
+    "$oid": "6aafe8e8a46d6fd0541ddb0e"
+  },
+  "student_code": "STD023",
+  "student_name": "Lakshmi",
+  "course": "Data Science",
+  "batch": "B1",
+  "attendance_percentage": 95,
+  "total_classes": 48,
+  "classes_attended": 46
+},
+{
+  "_id": {
+    "$oid": "6aafe8e8a46d6fd0541ddaf9"
+  },
+  "student_code": "STD010",
+  "student_name": "Kiran",
+  "course": "DSA",
+  "batch": "D1",
+  "attendance_percentage": 72,
+  "total_classes": 40,
+  "classes_attended": 29
+},
+{
+  "_id": {
+    "$oid": "6aafe8e8a46d6fd0541ddb01"
+  },
+  "student_code": "STD011",
+  "student_name": "Akhil",
+  "course": "DSA",
+  "batch": "D2",
+  "attendance_percentage": 80,
+  "total_classes": 40,
+  "classes_attended": 32
+},
+{
+  "_id": {
+    "$oid": "6aafe8e8a46d6fd0541ddb07"
+  },
+  "student_code": "STD016",
+  "student_name": "Aarav",
+  "course": "AI",
+  "batch": "A1",
+  "attendance_percentage": 86,
+  "total_classes": 50,
+  "classes_attended": 43
+},
+{
+  "_id": {
+    "$oid": "6aafe8e8a46d6fd0541ddb00"
+  },
+  "student_code": "STD003",
+  "student_name": "Priya",
+  "course": "AI",
+  "batch": "A3",
+  "attendance_percentage": 95,
+  "total_classes": 50,
+  "classes_attended": 48
+},
+{
+  "_id": {
+    "$oid": "6aafe8e8a46d6fd0541ddafb"
+  },
+  "student_code": "STD004",
+  "student_name": "Arjun",
+  "course": "Data Science",
+  "batch": "B1",
+  "attendance_percentage": 82,
+  "total_classes": 48,
+  "classes_attended": 39
+},
+{
+  "_id": {
+    "$oid": "6aafe8e8a46d6fd0541ddb11"
+  },
+  "student_code": "STD026",
+  "student_name": "Harish",
+  "course": "Cybersecurity",
+  "batch": "C3",
+  "attendance_percentage": 78,
+  "total_classes": 45,
+  "classes_attended": 35
+},
+{
+  "_id": {
+    "$oid": "6aafe8e8a46d6fd0541ddb12"
+  },
+  "student_code": "STD027",
+  "student_name": "Malavika",
+  "course": "Cybersecurity",
+  "batch": "C1",
+  "attendance_percentage": 93,
+  "total_classes": 45,
+  "classes_attended": 42
+},
+{
+  "_id": {
+    "$oid": "6aafe8e8a46d6fd0541ddafa"
+  },
+  "student_code": "STD009",
+  "student_name": "Sneha",
+  "course": "Cybersecurity",
+  "batch": "C3",
+  "attendance_percentage": 87,
+  "total_classes": 45,
+  "classes_attended": 39
+},
+{
+  "_id": {
+    "$oid": "6aafe8e8a46d6fd0541ddb10"
+  },
+  "student_code": "STD025",
+  "student_name": "Devika",
+  "course": "Cybersecurity",
+  "batch": "C2",
+  "attendance_percentage": 89,
+  "total_classes": 45,
+  "classes_attended": 40
+},
+{
+  "_id": {
+    "$oid": "6aafe8e8a46d6fd0541ddb06"
+  },
+  "student_code": "STD015",
+  "student_name": "Sanjay",
+  "course": "Cybersecurity",
+  "batch": "C3",
+  "attendance_percentage": 97,
+  "total_classes": 45,
+  "classes_attended": 44
+},
+{
+  "_id": {
+    "$oid": "6aafe8e8a46d6fd0541ddaf8"
+  },
+  "student_code": "STD008",
+  "student_name": "Vikram",
+  "course": "Cybersecurity",
+  "batch": "C2",
+  "attendance_percentage": 91,
+  "total_classes": 45,
+  "classes_attended": 41
+},
+{
+  "_id": {
+    "$oid": "6aafe8e8a46d6fd0541ddb0b"
+  },
+  "student_code": "STD020",
+  "student_name": "Aditya",
+  "course": "Data Science",
+  "batch": "B1",
+  "attendance_percentage": 88,
+  "total_classes": 48,
+  "classes_attended": 42
+}]

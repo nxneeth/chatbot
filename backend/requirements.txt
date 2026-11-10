@@ -1,0 +1,8 @@
+fastapi>=0.115
+uvicorn[standard]>=0.30
+pymongo>=4.8
+PyJWT>=2.8
+requests>=2.31
+python-dotenv>=1.0
+pydantic>=2.6
+pytest>=8.0

@@ -1,0 +1,132 @@
+[{
+  "_id": {
+    "$oid": "6aafe919a46d6fd0541ddb2b"
+  },
+  "batch": "B3",
+  "course": "Data Science",
+  "instructor": "Dr. Vivek Sharma",
+  "student_count": 2,
+  "schedule": "Mon, Wed | 03:00 PM - 04:00 PM",
+  "status": "Active"
+},
+{
+  "_id": {
+    "$oid": "6aafe919a46d6fd0541ddb2a"
+  },
+  "batch": "A2",
+  "course": "AI",
+  "instructor": "Dr. Rahul Menon",
+  "student_count": 2,
+  "schedule": "Tue, Thu | 11:00 AM - 12:00 PM",
+  "status": "Active"
+},
+{
+  "_id": {
+    "$oid": "6aafe919a46d6fd0541ddb28"
+  },
+  "batch": "D1",
+  "course": "DSA",
+  "instructor": "Prof. Rohit Nair",
+  "student_count": 2,
+  "schedule": "Mon, Wed | 09:00 AM - 10:00 AM",
+  "status": "Completed"
+},
+{
+  "_id": {
+    "$oid": "6aafe919a46d6fd0541ddb2e"
+  },
+  "batch": "A3",
+  "course": "AI",
+  "instructor": "Dr. Anjali Thomas",
+  "student_count": 2,
+  "schedule": "Mon, Thu | 02:00 PM - 03:00 PM",
+  "status": "Completed"
+},
+{
+  "_id": {
+    "$oid": "6aafe919a46d6fd0541ddb29"
+  },
+  "batch": "B1",
+  "course": "Data Science",
+  "instructor": "Prof. Arjun Kumar",
+  "student_count": 3,
+  "schedule": "Tue, Fri | 09:00 AM - 10:00 AM",
+  "status": "Active"
+},
+{
+  "_id": {
+    "$oid": "6aafe919a46d6fd0541ddb26"
+  },
+  "batch": "C1",
+  "course": "Cybersecurity",
+  "instructor": "Prof. Sneha Pillai",
+  "student_count": 3,
+  "schedule": "Tue, Thu | 10:00 AM - 11:00 AM",
+  "status": "Active"
+},
+{
+  "_id": {
+    "$oid": "6aafe919a46d6fd0541ddb27"
+  },
+  "batch": "D2",
+  "course": "DSA",
+  "instructor": "Dr. Asha Ramesh",
+  "student_count": 2,
+  "schedule": "Tue, Thu | 02:00 PM - 03:00 PM",
+  "status": "Active"
+},
+{
+  "_id": {
+    "$oid": "6aafe919a46d6fd0541ddb2f"
+  },
+  "batch": "A1",
+  "course": "AI",
+  "instructor": "Dr. Meera Nair",
+  "student_count": 4,
+  "schedule": "Mon, Wed, Fri | 10:00 AM - 11:00 AM",
+  "status": "Active"
+},
+{
+  "_id": {
+    "$oid": "6aafe919a46d6fd0541ddb30"
+  },
+  "batch": "C2",
+  "course": "Cybersecurity",
+  "instructor": "Dr. Kiran Varma",
+  "student_count": 2,
+  "schedule": "Mon, Fri | 01:00 PM - 02:00 PM",
+  "status": "Completed"
+},
+{
+  "_id": {
+    "$oid": "6aafe919a46d6fd0541ddb2d"
+  },
+  "batch": "B2",
+  "course": "Data Science",
+  "instructor": "Dr. Priya Joseph",
+  "student_count": 3,
+  "schedule": "Wed, Sat | 11:00 AM - 12:00 PM",
+  "status": "Completed"
+},
+{
+  "_id": {
+    "$oid": "6aafe919a46d6fd0541ddb31"
+  },
+  "batch": "D3",
+  "course": "DSA",
+  "instructor": "Prof. Aditya Krishnan",
+  "student_count": 2,
+  "schedule": "Fri | 11:00 AM - 12:00 PM",
+  "status": "Completed"
+},
+{
+  "_id": {
+    "$oid": "6aafe919a46d6fd0541ddb2c"
+  },
+  "batch": "C3",
+  "course": "Cybersecurity",
+  "instructor": "Dr. Neha Gupta",
+  "student_count": 3,
+  "schedule": "Wed, Fri | 04:00 PM - 05:00 PM",
+  "status": "Active"
+}]

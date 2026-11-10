@@ -1,0 +1,20 @@
+[{
+  "_id": {
+    "$oid": "6aa3e818b2c20d10e323ceef"
+  },
+  "admin_id": "ADM001",
+  "name": "Arun Kumar",
+  "email": "arun.kumar@example.com",
+  "role": "Admin",
+  "phone": "9887000001"
+},
+{
+  "_id": {
+    "$oid": "6aa3e822b2c20d10e323cef1"
+  },
+  "admin_id": "ADM002",
+  "name": "Priya Menon",
+  "email": "priya.menon@example.com",
+  "role": "Admin",
+  "phone": "9887000002"
+}]

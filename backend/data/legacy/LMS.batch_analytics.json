@@ -1,0 +1,144 @@
+[{
+  "_id": {
+    "$oid": "6aafe902a46d6fd0541ddb23"
+  },
+  "analytics_id": "BA006",
+  "batch_id": "B3",
+  "course_name": "Data Science",
+  "average_attendance": 78.5,
+  "average_marks": 60,
+  "pass_percentage": 100,
+  "engagement_score": 84
+},
+{
+  "_id": {
+    "$oid": "6aafe902a46d6fd0541ddb1f"
+  },
+  "analytics_id": "BA012",
+  "batch_id": "D3",
+  "course_name": "DSA",
+  "average_attendance": 98,
+  "average_marks": 95.5,
+  "pass_percentage": 100,
+  "engagement_score": 81
+},
+{
+  "_id": {
+    "$oid": "6aafe902a46d6fd0541ddb22"
+  },
+  "analytics_id": "BA003",
+  "batch_id": "A3",
+  "course_name": "Artificial Intelligence",
+  "average_attendance": 87,
+  "average_marks": 79.5,
+  "pass_percentage": 100,
+  "engagement_score": 82
+},
+{
+  "_id": {
+    "$oid": "6aafe902a46d6fd0541ddb1a"
+  },
+  "analytics_id": "BA008",
+  "batch_id": "C2",
+  "course_name": "Cyber Security",
+  "average_attendance": 90,
+  "average_marks": 81.5,
+  "pass_percentage": 100,
+  "engagement_score": 88
+},
+{
+  "_id": {
+    "$oid": "6aafe902a46d6fd0541ddb1c"
+  },
+  "analytics_id": "BA005",
+  "batch_id": "B2",
+  "course_name": "Data Science",
+  "average_attendance": 90.33,
+  "average_marks": 81.67,
+  "pass_percentage": 100,
+  "engagement_score": 87
+},
+{
+  "_id": {
+    "$oid": "6aafe902a46d6fd0541ddb20"
+  },
+  "analytics_id": "BA007",
+  "batch_id": "C1",
+  "course_name": "Cyber Security",
+  "average_attendance": 87.33,
+  "average_marks": 68,
+  "pass_percentage": 100,
+  "engagement_score": 92
+},
+{
+  "_id": {
+    "$oid": "6aafe902a46d6fd0541ddb18"
+  },
+  "analytics_id": "BA009",
+  "batch_id": "C3",
+  "course_name": "Cyber Security",
+  "average_attendance": 87.33,
+  "average_marks": 74.33,
+  "pass_percentage": 100,
+  "engagement_score": 83
+},
+{
+  "_id": {
+    "$oid": "6aafe902a46d6fd0541ddb1e"
+  },
+  "analytics_id": "BA001",
+  "batch_id": "A1",
+  "course_name": "Artificial Intelligence",
+  "average_attendance": 92,
+  "average_marks": 85.5,
+  "pass_percentage": 100,
+  "engagement_score": 90
+},
+{
+  "_id": {
+    "$oid": "6aafe902a46d6fd0541ddb1b"
+  },
+  "analytics_id": "BA011",
+  "batch_id": "D2",
+  "course_name": "DSA",
+  "average_attendance": 83.5,
+  "average_marks": 71.5,
+  "pass_percentage": 100,
+  "engagement_score": 86
+},
+{
+  "_id": {
+    "$oid": "6aafe902a46d6fd0541ddb1d"
+  },
+  "analytics_id": "BA004",
+  "batch_id": "B1",
+  "course_name": "Data Science",
+  "average_attendance": 88.33,
+  "average_marks": 78.67,
+  "pass_percentage": 100,
+  "engagement_score": 91
+},
+{
+  "_id": {
+    "$oid": "6aafe902a46d6fd0541ddb19"
+  },
+  "analytics_id": "BA010",
+  "batch_id": "D1",
+  "course_name": "DSA",
+  "average_attendance": 73,
+  "average_marks": 35,
+  "pass_percentage": 0,
+  "engagement_score": 90
+},
+{
+  "_id": {
+    "$oid": "6aafe902a46d6fd0541ddb21"
+  },
+  "analytics_id": "BA002",
+  "batch_id": "A2",
+  "course_name": "Artificial Intelligence",
+  "average_attendance": 89,
+  "average_marks": 79.5,
+  "pass_percentage": 100,
+  "engagement_score": 86
+}]

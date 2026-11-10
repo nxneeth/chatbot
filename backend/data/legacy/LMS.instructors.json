@@ -1,0 +1,120 @@
+[{
+  "_id": {
+    "$oid": "6a465ccb38b4c95c6f8598c1"
+  },
+  "instructor_code": "INS001",
+  "name": "Dr. Meera Nair",
+  "email": "meera.nair@university.edu",
+  "course": "AI",
+  "batch": "A1"
+},
+{
+  "_id": {
+    "$oid": "6a465ccb38b4c95c6f8598c8"
+  },
+  "instructor_code": "INS008",
+  "name": "Dr. Kiran Varma",
+  "email": "kiran.varma@university.edu",
+  "course": "Cybersecurity",
+  "batch": "C2"
+},
+{
+  "_id": {
+    "$oid": "6a465ccb38b4c95c6f8598c6"
+  },
+  "instructor_code": "INS006",
+  "name": "Dr. Vivek Sharma",
+  "email": "vivek.sharma@university.edu",
+  "course": "Data Science",
+  "batch": "B3"
+},
+{
+  "_id": {
+    "$oid": "6a465ccb38b4c95c6f8598c7"
+  },
+  "instructor_code": "INS007",
+  "name": "Prof. Sneha Pillai",
+  "email": "sneha.pillai@university.edu",
+  "course": "Cybersecurity",
+  "batch": "C1"
+},
+{
+  "_id": {
+    "$oid": "6a465ccb38b4c95c6f8598c2"
+  },
+  "instructor_code": "INS002",
+  "name": "Dr. Rahul Menon",
+  "email": "rahul.menon@university.edu",
+  "course": "AI",
+  "batch": "A2"
+},
+{
+  "_id": {
+    "$oid": "6a465ccb38b4c95c6f8598cb"
+  },
+  "instructor_code": "INS011",
+  "name": "Dr. Asha Ramesh",
+  "email": "asha.ramesh@university.edu",
+  "course": "DSA",
+  "batch": "D2"
+},
+{
+  "_id": {
+    "$oid": "6a465ccb38b4c95c6f8598c9"
+  },
+  "instructor_code": "INS009",
+  "name": "Dr. Neha Gupta",
+  "email": "neha.gupta@university.edu",
+  "course": "Cybersecurity",
+  "batch": "C3"
+},
+{
+  "_id": {
+    "$oid": "6a465ccb38b4c95c6f8598c3"
+  },
+  "instructor_code": "INS003",
+  "name": "Dr. Anjali Thomas",
+  "email": "anjali.thomas@university.edu",
+  "course": "AI",
+  "batch": "A3"
+},
+{
+  "_id": {
+    "$oid": "6a465ccb38b4c95c6f8598cc"
+  },
+  "instructor_code": "INS012",
+  "name": "Prof. Aditya Krishnan",
+  "email": "aditya.krishnan@university.edu",
+  "course": "DSA",
+  "batch": "D3"
+},
+{
+  "_id": {
+    "$oid": "6a465ccb38b4c95c6f8598ca"
+  },
+  "instructor_code": "INS010",
+  "name": "Prof. Rohit Nair",
+  "email": "rohit.nair@university.edu",
+  "course": "DSA",
+  "batch": "D1"
+},
+{
+  "_id": {
+    "$oid": "6a465ccb38b4c95c6f8598c4"
+  },
+  "instructor_code": "INS004",
+  "name": "Prof. Arjun Kumar",
+  "email": "arjun.kumar@university.edu",
+  "course": "Data Science",
+  "batch": "B1"
+},
+{
+  "_id": {
+    "$oid": "6a465ccb38b4c95c6f8598c5"
+  },
+  "instructor_code": "INS005",
+  "name": "Dr. Priya Joseph",
+  "email": "priya.joseph@university.edu",
+  "course": "Data Science",
+  "batch": "B2"
+}]

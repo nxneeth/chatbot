@@ -1,0 +1,330 @@
+[{
+  "_id": {
+    "$oid": "6aafe8caa46d6fd0541ddae2"
+  },
+  "student_code": "STD014",
+  "student_name": "Keerthana",
+  "course": "Data Science",
+  "batch": "B2",
+  "marks": 71,
+  "result": "Pass"
+},
+{
+  "_id": {
+    "$oid": "6aafe8caa46d6fd0541ddae6"
+  },
+  "student_code": "STD018",
+  "student_name": "Ishaan",
+  "course": "AI",
+  "batch": "A3",
+  "marks": 67,
+  "result": "Pass"
+},
+{
+  "_id": {
+    "$oid": "6aafe8caa46d6fd0541ddae9"
+  },
+  "student_code": "STD021",
+  "student_name": "Nayana",
+  "course": "Data Science",
+  "batch": "B2",
+  "marks": 86,
+  "result": "Pass"
+},
+{
+  "_id": {
+    "$oid": "6aafe8caa46d6fd0541ddad9"
+  },
+  "student_code": "STD009",
+  "student_name": "Sneha",
+  "course": "Cybersecurity",
+  "batch": "C3",
+  "marks": 73,
+  "result": "Pass"
+},
+{
+  "_id": {
+    "$oid": "6aafe8caa46d6fd0541ddaf2"
+  },
+  "student_code": "STD030",
+  "student_name": "Sreeram",
+  "course": "DSA",
+  "batch": "D3",
+  "marks": 96,
+  "result": "Pass"
+},
+{
+  "_id": {
+    "$oid": "6aafe8caa46d6fd0541ddad6"
+  },
+  "student_code": "STD007",
+  "student_name": "Anjali",
+  "course": "Cybersecurity",
+  "batch": "C1",
+  "marks": 45,
+  "result": "Pass"
+},
+{
+  "_id": {
+    "$oid": "6aafe8caa46d6fd0541ddae8"
+  },
+  "student_code": "STD020",
+  "student_name": "Aditya",
+  "course": "Data Science",
+  "batch": "B1",
+  "marks": 74,
+  "result": "Pass"
+},
+{
+  "_id": {
+    "$oid": "6aafe8caa46d6fd0541ddae0"
+  },
+  "student_code": "STD005",
+  "student_name": "Meera",
+  "course": "Data Science",
+  "batch": "B2",
+  "marks": 88,
+  "result": "Pass"
+},
+{
+  "_id": {
+    "$oid": "6aafe8caa46d6fd0541ddaeb"
+  },
+  "student_code": "STD023",
+  "student_name": "Lakshmi",
+  "course": "Data Science",
+  "batch": "B1",
+  "marks": 94,
+  "result": "Pass"
+},
+{
+  "_id": {
+    "$oid": "6aafe8caa46d6fd0541ddadf"
+  },
+  "student_code": "STD003",
+  "student_name": "Priya",
+  "course": "AI",
+  "batch": "A3",
+  "marks": 92,
+  "result": "Pass"
+},
+{
+  "_id": {
+    "$oid": "6aafe8caa46d6fd0541ddaea"
+  },
+  "student_code": "STD022",
+  "student_name": "Vishal",
+  "course": "Data Science",
+  "batch": "B3",
+  "marks": 61,
+  "result": "Pass"
+},
+{
+  "_id": {
+    "$oid": "6aafe8caa46d6fd0541ddae7"
+  },
+  "student_code": "STD019",
+  "student_name": "Kavya",
+  "course": "AI",
+  "batch": "A1",
+  "marks": 91,
+  "result": "Pass"
+},
+{
+  "_id": {
+    "$oid": "6aafe8caa46d6fd0541ddaee"
+  },
+  "student_code": "STD026",
+  "student_name": "Harish",
+  "course": "Cybersecurity",
+  "batch": "C3",
+  "marks": 57,
+  "result": "Pass"
+},
+{
+  "_id": {
+    "$oid": "6aafe8caa46d6fd0541ddadd"
+  },
+  "student_code": "STD011",
+  "student_name": "Akhil",
+  "course": "DSA",
+  "batch": "D2",
+  "marks": 64,
+  "result": "Pass"
+},
+{
+  "_id": {
+    "$oid": "6aafe8caa46d6fd0541ddae5"
+  },
+  "student_code": "STD017",
+  "student_name": "Diya",
+  "course": "AI",
+  "batch": "A2",
+  "marks": 83,
+  "result": "Pass"
+},
+{
+  "_id": {
+    "$oid": "6aafe8caa46d6fd0541ddade"
+  },
+  "student_code": "STD001",
+  "student_name": "Bonnie",
+  "course": "AI",
+  "batch": "A1",
+  "marks": 84,
+  "result": "Pass"
+},
+{
+  "_id": {
+    "$oid": "6aafe8caa46d6fd0541ddad7"
+  },
+  "student_code": "STD002",
+  "student_name": "Rohan",
+  "course": "AI",
+  "batch": "A2",
+  "marks": 76,
+  "result": "Pass"
+},
+{
+  "_id": {
+    "$oid": "6aafe8caa46d6fd0541ddad8"
+  },
+  "student_code": "STD006",
+  "student_name": "Rahul",
+  "course": "Data Science",
+  "batch": "B3",
+  "marks": 59,
+  "result": "Pass"
+},
+{
+  "_id": {
+    "$oid": "6aafe8caa46d6fd0541ddae4"
+  },
+  "student_code": "STD016",
+  "student_name": "Aarav",
+  "course": "AI",
+  "batch": "A1",
+  "marks": 78,
+  "result": "Pass"
+},
+{
+  "_id": {
+    "$oid": "6aafe8caa46d6fd0541ddae3"
+  },
+  "student_code": "STD004",
+  "student_name": "Arjun",
+  "course": "Data Science",
+  "batch": "B1",
+  "marks": 68,
+  "result": "Pass"
+},
+{
+  "_id": {
+    "$oid": "6aafe8caa46d6fd0541ddadb"
+  },
+  "student_code": "STD012",
+  "student_name": "Divya",
+  "course": "DSA",
+  "batch": "D3",
+  "marks": 95,
+  "result": "Pass"
+},
+{
+  "_id": {
+    "$oid": "6aafe8caa46d6fd0541ddaf0"
+  },
+  "student_code": "STD028",
+  "student_name": "Abhinav",
+  "course": "DSA",
+  "batch": "D1",
+  "marks": 38,
+  "result": "Fail"
+},
+{
+  "_id": {
+    "$oid": "6aafe8caa46d6fd0541ddad5"
+  },
+  "student_code": "STD008",
+  "student_name": "Vikram",
+  "course": "Cybersecurity",
+  "batch": "C2",
+  "marks": 81,
+  "result": "Pass"
+},
+{
+  "_id": {
+    "$oid": "6aafe8caa46d6fd0541ddae1"
+  },
+  "student_code": "STD013",
+  "student_name": "Nithin",
+  "course": "AI",
+  "batch": "A1",
+  "marks": 89,
+  "result": "Pass"
+},
+{
+  "_id": {
+    "$oid": "6aafe8caa46d6fd0541ddaef"
+  },
+  "student_code": "STD027",
+  "student_name": "Malavika",
+  "course": "Cybersecurity",
+  "batch": "C1",
+  "marks": 90,
+  "result": "Pass"
+},
+{
+  "_id": {
+    "$oid": "6aafe8caa46d6fd0541ddaed"
+  },
+  "student_code": "STD025",
+  "student_name": "Devika",
+  "course": "Cybersecurity",
+  "batch": "C2",
+  "marks": 82,
+  "result": "Pass"
+},
+{
+  "_id": {
+    "$oid": "6aafe8caa46d6fd0541ddaf1"
+  },
+  "student_code": "STD029",
+  "student_name": "Gopika",
+  "course": "DSA",
+  "batch": "D2",
+  "marks": 79,
+  "result": "Pass"
+},
+{
+  "_id": {
+    "$oid": "6aafe8caa46d6fd0541ddada"
+  },
+  "student_code": "STD010",
+  "student_name": "Kiran",
+  "course": "DSA",
+  "batch": "D1",
+  "marks": 32,
+  "result": "Fail"
+},
+{
+  "_id": {
+    "$oid": "6aafe8caa46d6fd0541ddaec"
+  },
+  "student_code": "STD024",
+  "student_name": "Arun",
+  "course": "Cybersecurity",
+  "batch": "C1",
+  "marks": 69,
+  "result": "Pass"
+},
+{
+  "_id": {
+    "$oid": "6aafe8caa46d6fd0541ddadc"
+  },
+  "student_code": "STD015",
+  "student_name": "Sanjay",
+  "course": "Cybersecurity",
+  "batch": "C3",
+  "marks": 93,
+  "result": "Pass"
+}]

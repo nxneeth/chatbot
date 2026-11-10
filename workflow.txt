@@ -1,0 +1,64 @@
+WHAT HAPPENS IN THE LMS ?
+
+1. Login. The user enters their ID and password. The system checks them against the database and learns whether they’re a student, instructor or admin.
+
+2. Dashboard. Each role sees its own portal and pages:
+
+Student: their course, marks and progress.
+Instructor: their class and its performance.
+Admin: the whole institution, with controls to add, edit or remove anything.
+
+3. Ask the chatbot. When a question is typed, the system works out what kind of question it is:
+
+About records (“What are my marks?”): it fetches only the data that person is allowed to see.
+General study question (“What is CNN?”): it answers like a tutor, using no records.
+Asking for someone else’s data: it refuses politely.
+
+4. Answer. The AI model writes a friendly reply using the fetched data. The system checks that every number in the reply matches the real data before showing it.
+
+5. Admin changes. The admin asks for a change, by chat or form, and a confirmation card appears. Nothing changes until they press Confirm.
+
+6. Audit ledger. Every change is recorded as a block in a hash chain, blockchain-style, so any tampering with past records can be detected.
+
+
+
+
+THE TERMINOLOGIES. FRONTEND, BACKEND AND DB
+
+Frontend: what the user sees
+
+Built with React (Vite)
+
+Shows the screens: login page, dashboards, Explore pages, the admin panel and the chat window.
+Takes the user’s input: login details, chat messages, admin forms.
+Sends every request to the backend and displays the reply.
+Stores nothing important itself. It only keeps the login token, which proves who you are.
+Backend: the brain
+
+Built with Python (FastAPI)
+
+Login: checks the ID and password against the database, then gives the frontend a secure token.
+Access control: on every request, reads the token to know who is asking, so each role only gets its own data.
+Database (MongoDB): reads and writes students, instructors, courses, marks and attendance.
+Calculations: computes averages, pass rates and attendance % in code, so they’re always exact.
+Chatbot engine: decides what kind of question was asked, fetches the allowed data, and sends it to the AI model to word the answer.
+Admin changes: validates each change, waits for confirmation, saves it, and writes it to the audit ledger.
+How they talk to each other
+User types → Frontend sends request + token → Backend checks who it is
+→ Backend gets data from MongoDB (and the AI model for chat)
+→ Backend sends the answer back → Frontend displays it
+
+One line for the panel:
+
+The frontend is the face: it shows screens and collects input. The backend is the brain: it checks who you are, gets the right data, runs the chatbot and keeps every change secure and recorded.
+
+
+
+
+JUST TO KNOW WHAT THESE TERMS MEAN
+
+Frontend = the dining area and menu. It’s what customers see and use.
+Backend = the kitchen. It’s hidden, and it’s where the real work happens.
+API = the waiter. It carries orders from the table to the kitchen and brings the food back.
+Database = the storeroom. All the ingredients (data) are kept there.
+AI model = a specialist chef the kitchen calls on to prepare certain dishes.
